@@ -44,5 +44,6 @@ jupyter notebook movie_analysis.ipynb
 ```
 
 All analysis, tables, and visualizations are contained inside the notebook.
+
 ---
 You can also view the analysis directly in the Jupyter Notebook here: [movie_analysis.ipynb](movie_analysis.ipynb)
