@@ -27,15 +27,20 @@ Python project analyzing 6 JSON movie datasets (1970–2020) with genres and act
 - `pandas`
 - `numpy`
 - `matplotlib`
-- `seaborn`
 - JSON data handling and visualization
 
 ## How to run
 
 1. Install required libraries:
-   pip install pandas numpy matplotlib seaborn
 
-3. Open the Jupyter Notebook:
-   jupyter notebook movie_analysis.ipynb
-   
-   All analysis, tables, and visualizations are contained inside the notebook.
+```
+pip install pandas numpy matplotlib
+```
+
+2. Open the Jupyter Notebook:
+
+```
+jupyter notebook movie_analysis.ipynb
+```
+
+All analysis, tables, and visualizations are contained inside the notebook.
