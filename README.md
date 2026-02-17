@@ -37,4 +37,5 @@ Python project analyzing 6 JSON movie datasets (1970–2020) with genres and act
 
 3. Open the Jupyter Notebook:
    jupyter notebook movie_analysis.ipynb
+   
    All analysis, tables, and visualizations are contained inside the notebook.
