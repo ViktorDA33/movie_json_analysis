@@ -1,4 +1,4 @@
-# Movie-JSON-Analysis
+# Movie JSON Analysis
 
 Python project analyzing 6 JSON movie datasets (1970–2020) with genres and actors trends.
 
